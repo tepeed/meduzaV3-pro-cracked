@@ -18,13 +18,13 @@ View Commit History
 Termux
 termux-setup-storage
 pkg update -y && pkg upgrade -y
-pkg install git
-pkg install python
-pkg install python-pip
-pkg install nano
+pkg install git -y
+pkg install python -y
+pkg install python-pip -y
+pkg install nano -y
 pip install requests requests_toolbelt tqdm colorama faker pyfiglet cookiejar bs4 python-socketio
-git clone https://github.com/KianSantang777/MeduzaV3.git
-cd MeduzaV3
+git clone https://github.com/tepeed/meduzaV3-pro-cracked.git
+cd meduzaV3-pro-cracked
 chmod +x go.sh
 ./go.sh
 
